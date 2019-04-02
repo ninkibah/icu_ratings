@@ -126,7 +126,7 @@ module ICU
       end
       if version >= 3
         # See http://ratings.icu.ie/articles/18 (Part 3)
-        max_iterations = [50, 50]
+        max_iterations = [200, 200]
       end
 
       # Phase 1.
